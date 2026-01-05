@@ -154,7 +154,7 @@ HTML5-Canvas/
 
 - Hue cycling for rainbow effects (0-360 degrees)
 
-### 6. **JavaScript Best Practices**
+### 4. **JavaScript Best Practices**
 
 - ES6 destructuring assignment for cleaner code
 
@@ -164,7 +164,7 @@ HTML5-Canvas/
 
 - Early returns for cleaner conditional logic
 
-### 7. **Canvas Styling Properties**
+### 5. **Canvas Styling Properties**
 
 - `lineCap: 'round'` - Smooth line endings
 
